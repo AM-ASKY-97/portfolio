@@ -1,0 +1,810 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A. Mohammed Asky</title>
+
+    <!-- font awesome cdn link  -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    <!-- custom css file link  -->
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="modal.css">
+
+</head>
+
+<body onload="myFunction()">
+    <div id="preloader"></div>
+    <!-- header section starts  -->
+
+    <header>
+
+        <div class="user">
+            <img src="Images/IMG-97.png" alt="">
+            <h3 class="name">Asky AM</h3>
+            <p class="post">Software Developer</p>
+        </div>
+
+        <nav class="navbar">
+            <ul>
+                <li><a href="#home">home</a></li>
+                <li><a href="#about">about</a></li>
+                <li><a href="#education">education</a></li>
+                <li><a href="#portfolio">portfolio</a></li>
+                <li><a href="#contact">contact</a></li>
+            </ul>
+        </nav>
+
+        <div class="follow">
+            <a href="https://www.facebook.com/mohammed.asky.9"><i class="fab fa-facebook-f"></i></a>
+            <a href="https://www.linkedin.com/in/asky-mohammed-02742921b/"><i class="fab fa-linkedin-in"></i></a>
+            <a href="https://github.com/AM-ASKY-97"><i class="fab fa-github"></i></a>
+            <a href="#"><i class="fab fa-instagram"></i></a>
+            <a href="https://www.youtube.com/channel/UC5YJmG0NFNyZaZsvyGcQAWQ"><i class="fab fa-youtube"></i></a>
+        </div>
+
+    </header>
+
+    <!-- header section ends -->
+
+    <div id="menu" class="fas fa-bars"></div>
+
+    <!-- home section starts  -->
+
+    <section class="home" id="home">
+
+        <h3>Hello, my name is <span>Asky AM</span></h3>
+        <p>I'm a <span class="element"></span></p>
+        <p>Energetic, hardworking, innovative and ambitious person with a great passion for software engineering field.
+        </p>
+        <a href="#about"><button class="btn">about me <i class="fas fa-user"></i></button></a>
+
+    </section>
+
+    <!-- home section ends -->
+
+    <!-- about section starts  -->
+
+    <section class="about" id="about">
+
+        <h1 class="heading"> <span>about</span> me </h1>
+
+        <div class="row">
+
+            <div class="details">
+                <h3>I am a hardworking and ambitious individual with a great passion
+                    for the Software & IT industry. I am Reading Bachelor of Software
+                    Engineering Honors (BSE) at Open University of Sri Lanka. I have
+                    strong technical skills as well as excellent interpersonal skills,
+                    enabling me to interact with a wide range of clients.</h3>
+            </div>
+
+            <div class="info">
+                <h3> <span> name : </span> Asky AM </h3>
+                <h3> <span> age : </span> 24 </h3>
+                <h3> <span> qualification : </span> Reading BSE </h3>
+                <h3> <span> post : </span> Student And Freelancer </h3>
+                <h3> <span> language : </span> English , Tamil , Sinhalese </h3>
+                <a href="Cv/Asky-Cv.pdf"><button class="btn"> download CV <i class="fas fa-download"></i> </button></a>
+            </div>
+
+            <div class="counter">
+
+                <div class="box">
+                    <span>2+</span>
+                    <h3>years of experience</h3>
+                </div>
+
+                <div class="box">
+                    <span>7+</span>
+                    <h3>porject completed</h3>
+                </div>
+
+                <div class="box">
+                    <span>2+</span>
+                    <h3>happy clients</h3>
+                </div>
+
+                <div class="box">
+                    <span>0+</span>
+                    <h3>awards won</h3>
+                </div>
+
+            </div>
+
+        </div>
+
+        <h1 class="heading"> my <span>skills</span> </h1>
+
+        <div class="skill-row">
+            <div class="skill">
+                <div class="bars">
+                    <div class="info">
+                        <span>wordpress</span>
+                        <span>90%</span>
+                    </div>
+                    <div class="line wordpress"></div>
+                </div>
+                <div class="bars">
+                    <div class="info">
+                        <span>laravel</span>
+                        <span>80%</span>
+                    </div>
+                    <div class="line laravel"></div>
+                </div>
+                <div class="bars">
+                    <div class="info">
+                        <span>css</span>
+                        <span>80%</span>
+                    </div>
+                    <div class="line css"></div>
+                </div>
+                <div class="bars">
+                    <div class="info">
+                        <span>C#</span>
+                        <span>80%</span>
+                    </div>
+                    <div class="line c"></div>
+                </div>
+                <div class="bars">
+                    <div class="info">
+                        <span>JavaScript</span>
+                        <span>60%</span>
+                    </div>
+                    <div class="line JavaScript"></div>
+                </div>
+            </div>
+
+            <div class="skill">
+                <div class="bars">
+                    <div class="info">
+                        <span>HTML</span>
+                        <span>90%</span>
+                    </div>
+                    <div class="line html"></div>
+                </div>
+                <div class="bars">
+                    <div class="info">
+                        <span>PHP</span>
+                        <span>80%</span>
+                    </div>
+                    <div class="line php"></div>
+                </div>
+                <div class="bars">
+                    <div class="info">
+                        <span>MySQL</span>
+                        <span>80%</span>
+                    </div>
+                    <div class="line MySQL"></div>
+                </div>
+                <div class="bars">
+                    <div class="info">
+                        <span>Angular</span>
+                        <span>60%</span>
+                    </div>
+                    <div class="line Angular"></div>
+                </div>
+                <div class="bars">
+                    <div class="info">
+                        <span>Java</span>
+                        <span>60%</span>
+                    </div>
+                    <div class="line java"></div>
+                </div>
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- about section ends -->
+
+    <!-- education section starts  -->
+
+    <section class="education" id="education">
+
+        <h1 class="heading"> my <span>education</span> </h1>
+
+        <div class="box-container">
+
+            <div class="box">
+                <i class="fas fa-graduation-cap"></i>
+                <span>2021 Present</span>
+                <h3>OPEN UNIVERSITY OF SRI LANKA</h3>
+                <p>Faculty of Engineering Technology Department of Electrical & Computer Engineering Bachelor of Software Engineering Honours</p>
+            </div>
+
+            <div class="box">
+                <i class="fas fa-graduation-cap"></i>
+                <span>2018</span>
+                <h3>STR / DHARUSSALAM MAHA VIDYALAYA</h3>
+                <p>Completed General Certificate of Advanced Level in the Sri Lanka Education Scheme</p>
+            </div>
+
+            <div class="box">
+                <i class="fas fa-graduation-cap"></i>
+                <span>2013</span>
+                <h3>STR / DHARUSSALAM MAHA VIDYALAYA</h3>
+                <p>Completed General Certificate of Ordinary Level in the Sri Lanka Education Scheme</p>
+            </div>
+        </div>
+
+        <h1 class="heading"> Professional <span>Qualification</span> </h1>
+
+        <div class="box-container">
+
+            <div class="box">
+                <i class="fas fa-graduation-cap"></i>
+                <span>2020</span>
+                <h3>HARDY COLLEGE OF TECHNOLOGY</h3>
+                <p>National Vocational Qualification (NVQ Level-5) in <b>National Diploma in Information and Communication
+                        Technology</b> - Full Time</p>
+            </div>
+
+            <div class="box">
+                <i class="fas fa-graduation-cap"></i>
+                <span>2020</span>
+                <h3>VIVEKANANDA COLLEGE OF TECHNOLOGY</h3>
+                <p>National Vocational Qualification (NVQ Level-4) in <b>Computer Network Technician - Weekend</b></p>
+            </div>
+
+            <div class="box">
+                <i class="fas fa-graduation-cap"></i>
+                <span>2018</span>
+                <h3>NATIONAL YOUTH SERVICES COUNCIL</h3>
+                <p>National Vocational Qualification (NVQ Level-4) in <b>Information and Communication Technology
+                        Technician</b> - Full Time</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- education section ends -->
+
+    <!-- portfolio section starts  -->
+    <section class="article-contener portfolio" id="portfolio">
+        <h1 class="heading"> my <span>portfolio</span> </h1>
+
+        <ul class="groups">
+            <li class="col-pro">
+                <div class="card">
+                    <div class="image-session-Pharmacy">
+                        <img src="Images/project/pharmacy.PNG" alt="" class="image">
+                    </div>
+                    <div class="meta-sission-Pharmacy">
+                        <div class="body">
+                            <h2 class="title">Medical Prescription Application</h2>
+                            <p class="desc">This application is used for medical prescription purposes. The facilities
+                                of this application are user registration, user login, and uploading prescriptions. A
+                                pharmacy user can view uploaded prescriptions. The Pharmacy user can prepare quotations
+                                for the uploaded prescriptions and send the prepared quotation to the user. (Quotation
+                                should display in the user account), User can accept or reject the quotation. The
+                                system will notify the pharmacy about the user's accept or reject status.</p>
+
+                            <p class="desc">Used Stack : Laravel, HTML 5, CSS, Bootstrap, Ajax, MySQL</p>
+                        </div>
+                        <div class="footer-po">
+                            <a href="https://github.com/AM-ASKY-97/Medical_Prescription" class="button"><span>View Project</span></a>
+                        </div>
+                    </div>
+                </div>
+            </li>
+
+
+            <li class="col-pro">
+                <div class="card">
+                    <div class="image-session">
+                        <img src="Images/project/crud.PNG" alt="" class="image">
+                    </div>
+                    <div class="meta-sission">
+                        <div class="body">
+                            <h2 class="title">simple PHP ajax CRUD application</h2>
+                            <p class="desc">I have created simple PHP ajax CRUD application using by MySQL, Bootstrap &
+                                jQuery DataTables. If you want to have an account in this page you can create your own
+                                account, or you can use my account and add details in to the table.</p>
+
+                            <p class="desc">Used Stack : HTML-5, CSS, Bootstrap, PHP, Ajax, jQuery, MySQL</p>
+                        </div>
+                        <div class="footer-po">
+                            <a href="https://asky97.000webhostapp.com/" class="button"><span>View Project</span></a>
+                        </div>
+                    </div>
+                </div>
+            </li>
+
+            <li class="col-pro">
+                <div class="card">
+                    <div class="image-session">
+                        <img src="Images/project/age.PNG" alt="" class="image">
+                    </div>
+                    <div class="meta-sission">
+                        <div class="body">
+                            <h2 class="title">Sri Lanka NIC Calculator</h2>
+                            <p class="desc">Calculate the Date of Birth, age , gender and Living hours thorough the
+                                Sri Lankan NIC</p>
+
+                            <p class="desc">Used Stack : HTML-5, CSS, Bootstrap, PHP, JavaScript</p>
+                        </div>
+                        <div class="footer-po">
+                            <a href="http://age-calculate.herokuapp.com/" class="button"><span>View Project</span></a>
+                        </div>
+                    </div>
+                </div>
+            </li>
+
+            <li class="col-pro">
+                <div class="card">
+                    <div class="image-session">
+                        <img src="Images/project/hardy.PNG" alt="" class="image">
+                    </div>
+                    <div class="meta-sission">
+                        <div class="body">
+                            <h2 class="title">Web base of the particular Institution</h2>
+                            <p class="desc">This app is used for particular Institution website. The facilities of this application are user registration, user login and a student can view pass papers, model papers, class time table and lecture information. User can download course material</p>
+
+                            <p class="desc">Used Stack : HTML-5, CSS, Bootstrap, PHP, Ajax, jQuery, MySQL</p>
+                        </div>
+                        <div class="footer-po">
+                            <a href="https://hardy-ict.herokuapp.com/" class="button"><span>View Project</span></a>
+                        </div>
+                    </div>
+                </div>
+            </li>
+
+            <li class="col-pro">
+                <div class="card">
+                    <div class="image-session">
+                        <img src="Images/project/ils.PNG" alt="" class="image">
+                    </div>
+                    <div class="meta-sission">
+                        <div class="body">
+                            <h2 class="title">Application form</h2>
+                            <p class="desc">Application form the particular institution finally generate
+                                the pdf file of the student information
+                            </p>
+
+                            <p class="desc">Used Stack : HTML-5, CSS, Bootstrap, PHP, JavaScript, FPDF</p>
+                        </div>
+                        <div class="footer-po">
+                            <a href="http://ils-institute.herokuapp.com/" class="button"><span>View Project</span></a>
+                        </div>
+                    </div>
+                </div>
+            </li>
+
+            <li class="col-pro">
+                <div class="card">
+                    <div class="image-session">
+                        <img src="Images/project/portfolio.PNG" alt="" class="image">
+                    </div>
+                    <div class="meta-sission">
+                        <div class="body">
+                            <h2 class="title">My portfolio Website</h2>
+                            <p class="desc">A created portfolio website for my details. This portfolio website to contains to our clients to hire me and contact to me.
+                            </p>
+
+                            <p class="desc">Used Stack : HTML-5, CSS, JavaScript, jquery</p>
+                        </div>
+                        <div class="footer-po">
+                            <a href="#" class="button"><span>View Project</span></a>
+                        </div>
+                    </div>
+                </div>
+            </li>
+
+            <li class="col-pro">
+                <div class="card">
+                    <div class="image-session">
+                        <img src="Images/project/book-shop.jpeg" alt="" class="image">
+                    </div>
+                    <div class="meta-sission">
+                        <div class="body">
+                            <h2 class="title">online book shop </h2>
+
+                            <p class="desc">2<sup>nd</sup> semester lab work for mobile application course</p>
+
+                            <p class="desc">Used Stack : react native</p>
+                        </div>
+                        <div class="footer-po">
+                            <a href="https://github.com/AM-ASKY-97/online-book-shop-react-native" class="button"><span>View Project</span></a>
+                        </div>
+                    </div>
+                </div>
+            </li>
+
+            <li class="col-pro">
+                <div class="card">
+                    <div class="image-session">
+                        <img src="Images/project/multification.PNG" alt="" class="image">
+                    </div>
+                    <div class="meta-sission">
+                        <div class="body">
+                            <h2 class="title">multiplication table</h2>
+                            <p class="desc">Desktop Windows based multiplication table
+                            </p>
+
+                            <p class="desc">Used Stack : C#</p>
+                        </div>
+                        <div class="footer-po">
+                            <a href="https://github.com/AM-ASKY-97/Multiplication_Table" class="button"><span>View Project</span></a>
+                        </div>
+                    </div>
+                </div>
+            </li>
+
+            <li class="col-pro">
+                <div class="card">
+                    <div class="image-session">
+                        <img src="Images/project/railway.PNG" alt="" class="image">
+                    </div>
+                    <div class="meta-sission">
+                        <div class="body">
+                            <h2 class="title">Railway Reservation System</h2>
+                            <p class="desc">Desktop Windows based railway reservation system
+                            </p>
+
+                            <p class="desc">Used Stack : visual basic</p>
+                        </div>
+                        <div class="footer-po">
+                            <a href="#" class="button"><span>View Project</span></a>
+                        </div>
+                    </div>
+                </div>
+            </li>
+        </ul>
+
+        <div class="box" style="text-align: center;">
+            <button class="pro-btn"><span>Load More</span></button>
+        </div>
+    </section>
+
+    <!-- portfolio section ends -->
+
+    <!-- certificate section starts  -->
+
+    <section class="certificate" id="certificate">
+
+        <h1 class="heading"> My <span>certificate</span> </h1>
+
+        <div class="box-container">
+
+            <div class="box col">
+                <div class="img">
+                    <a href="#"><img src="Images/certificate/moratuwa.jfif" alt=""></a>
+                </div>
+
+                <div class="text">
+                    <h3>Web Design for Beginners</h3>
+                </div>
+            </div>
+
+            <div class="box col">
+                <div class="img">
+                    <a href="https://www.sololearn.com/profile/13414130"><img src="Images/certificate/java.png" alt=""></a>
+                </div>
+
+                <div class="text">
+                    <h3>sololearn : Java</h3>
+                </div>
+            </div>
+
+            <div class="box col">
+                <div class="img">
+                    <a href="https://www.sololearn.com/profile/13414130"><img src="Images/certificate/front-end.jpg" alt=""></a>
+                </div>
+
+                <div class="text">
+                    <h3>Front End Development</h3>
+                </div>
+            </div>
+
+            <div class="box col">
+                <div class="img">
+                    <a href="https://www.cert.shapeai.tech/verify/Z5NEWf"><img src="Images/certificate/machine.png" alt=""></a>
+                </div>
+
+                <div class="text">
+                    <h3>Python & Machine Learning</h3>
+                </div>
+            </div>
+
+            <div class="box col">
+                <div class="img">
+                    <a href="https://www.sololearn.com/profile/13414130"><img src="Images/certificate/php.png" alt=""></a>
+                </div>
+
+                <div class="text">
+                    <h3>sololearn : PHP</h3>
+                </div>
+            </div>
+
+            <div class="box col">
+                <div class="img">
+                    <a href="#"><img src="Images/certificate/wordpress.PNG" alt=""></a>
+                </div>
+
+                <div class="text">
+                    <h3>WordPress Development</h3>
+                </div>
+            </div>
+
+            <div class="box col">
+                <div class="img">
+                    <a href="#"><img src="Images/certificate/iap.PNG" alt=""></a>
+                </div>
+
+                <div class="text">
+                    <h3>Intensive Access Programme</h3>
+                </div>
+            </div>
+
+            <div class="box col">
+                <div class="img">
+                    <a href="https://www.sololearn.com/profile/13414130"><img src="Images/certificate/java.jpg" alt=""></a>
+                </div>
+
+                <div class="text">
+                    <h3>great learning : Java</h3>
+                </div>
+            </div>
+
+            <div class="box col">
+                <div class="img">
+                    <a href="https://www.sololearn.com/profile/13414130"><img src="Images/certificate/jquery.png" alt=""></a>
+                </div>
+
+                <div class="text">
+                    <h3>sololearn : jquery</h3>
+                </div>
+            </div>
+
+            <div class="box col">
+                <div class="img">
+                    <a href="#"><img src="Images/certificate/icta.PNG" alt=""></a>
+                </div>
+
+                <div class="text">
+                    <h3>Intel Education</h3>
+                </div>
+            </div>
+
+            <div class="box col">
+                <div class="img">
+                    <a href="https://studio.code.org/s/coursec-2021"><img src="Images/certificate/course-c.jfif" alt=""></a>
+                </div>
+
+                <div class="text">
+                    <h3>CODE.org : Course C (2021)</h3>
+                </div>
+            </div>
+
+            <div class="box col">
+                <div class="img">
+                    <a href="https://www.sololearn.com/profile/13414130"><img src="Images/certificate/javascript.png" alt=""></a>
+                </div>
+
+                <div class="text">
+                    <h3>sololearn : JavaScript</h3>
+                </div>
+            </div>
+
+            <div class="box col">
+                <div class="img">
+                    <a href="https://studio.code.org/s/coursed-2021"><img src="Images/certificate/course-d.jfif" alt=""></a>
+                </div>
+
+                <div class="text">
+                    <h3>CODE.org : Course D (2021)</h3>
+                </div>
+            </div>
+
+
+            <div class="box col">
+                <div class="img">
+                    <a href="https://www.sololearn.com/profile/13414130"><img src="Images/certificate/c.png" alt=""></a>
+                </div>
+
+                <div class="text">
+                    <h3>sololearn : C</h3>
+                </div>
+            </div>
+
+            <div class="box col">
+                <div class="img">
+                    <a href="https://www.sololearn.com/profile/13414130"><img src="Images/certificate/css.png" alt=""></a>
+                </div>
+
+                <div class="text">
+                    <h3>sololearn : CSS</h3>
+                </div>
+            </div>
+
+            <div class="box col">
+                <div class="img">
+                    <a href="https://studio.code.org/s/coursee-2021"><img src="Images/certificate/course-e.jfif" alt=""></a>
+                </div>
+
+                <div class="text">
+                    <h3>CODE.org : Course E (2021)</h3>
+                </div>
+            </div>
+
+            <div class="box col">
+                <div class="img">
+                    <a href="https://www.sololearn.com/profile/13414130"><img src="Images/certificate/html.png" alt=""></a>
+                </div>
+
+                <div class="text">
+                    <h3>sololearn : HTML</h3>
+                </div>
+            </div>
+
+            <div class="box col">
+                <div class="img">
+                    <a href="https://www.sololearn.com/profile/13414130"><img src="Images/certificate/python.png" alt=""></a>
+                </div>
+
+                <div class="text">
+                    <h3>sololearn : python</h3>
+                </div>
+            </div>
+
+            <div class="box col">
+                <div class="img">
+                    <a href="https://www.sololearn.com/profile/13414130"><img src="Images/certificate/sql.png" alt=""></a>
+                </div>
+
+                <div class="text">
+                    <h3>sololearn : SQL</h3>
+                </div>
+            </div>
+
+            <div class="box col">
+                <div class="img">
+                    <a href="https://www.sololearn.com/profile/13414130"><img src="Images/certificate/responcive.png" alt=""></a>
+                </div>
+
+                <div class="text">
+                    <h3>sololearn : Responsive Web Design</h3>
+                </div>
+            </div>
+
+            <div class="box col">
+                <div class="img">
+                    <a href="https://studio.code.org/s/pre-express-2021"><img src="Images/certificate/pre-reader.jfif" alt=""></a>
+                </div>
+
+                <div class="text">
+                    <h3>Pre-reader Express (2021)</h3>
+                </div>
+            </div>
+
+            <div class="box" style="text-align: center;">
+                <button class="load-btn"><span>Load More</span></button>
+            </div>
+
+        </div>
+
+    </section>
+
+    <!-- certificate section ends -->
+
+    <!-- contact section starts  -->
+
+    <section class="contact" id="contact">
+
+        <h1 class="heading"> <span>contact</span> me </h1>
+
+        <div class="row">
+
+            <div class="content">
+
+                <h3 class="title">contact info</h3>
+
+                <div class="info">
+                    <h3> <i class="fas fa-envelope"></i> am.asky97@gmail.com </h3>
+                    <h3> <i class="fas fa-phone"></i> +94775311974 </h3>
+                    <h3> <i class="fas fa-phone"></i> +94751311974 </h3>
+                    <h3> <i class="fas fa-map-marker-alt"></i> Sri Lanka, Sammanthurai </h3>
+                </div>
+
+                <div class="follow">
+                    <a href="https://www.facebook.com/mohammed.asky.9"><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://www.linkedin.com/in/asky-mohammed-02742921b/"><i class="fab fa-linkedin-in"></i></a>
+                    <a href="https://github.com/AM-ASKY-97"><i class="fab fa-github"></i></a>
+                    <a href="#"><i class="fab fa-instagram"></i></a>
+                    <a href="https://www.youtube.com/channel/UC5YJmG0NFNyZaZsvyGcQAWQ"><i class="fab fa-youtube"></i></a>
+                </div>
+
+            </div>
+
+            <form action="">
+
+                <input type="text" placeholder="name" class="box">
+                <input type="email" placeholder="email" class="box">
+                <input type="text" placeholder="project" class="box">
+                <textarea name="" id="" cols="30" rows="10" class="box message" placeholder="message"></textarea>
+                <button type="submit" class="btn"> send <i class="fas fa-paper-plane"></i> </button>
+
+            </form>
+
+        </div>
+
+    </section>
+
+    <!-- contact section ends -->
+
+
+    <!-- footer section  -->
+    <footer class="footer"> created by <span> mr. Asky AM </span> | &copy; 2022 all rights reserved! </footer>
+
+
+    <!-- The Modal -->
+    <div id="myModal" class="modal">
+
+        <!-- Modal content -->
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <p>Some text in the Modal..</p>
+        </div>
+    </div>
+
+    <!-- scroll top button  -->
+
+    <a href="#home" class="top">
+        <img src="" alt="">
+    </a>
+
+    <!-- jquery cdn link  -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script>
+        $(".col").slice(0, 3).show()
+        $(".load-btn").on("click", function() {
+            $(".col:hidden").slice(0, 3).slideDown()
+            if ($(".col:hidden").length == 0) {
+                $(".load-btn").fadeOut('slow')
+            }
+        })
+    </script>
+
+    <script>
+        $(".col-pro").slice(0, 2).show()
+        $(".pro-btn").on("click", function() {
+            $(".col-pro:hidden").slice(0, 2).slideDown()
+            if ($(".col-pro:hidden").length == 0) {
+                $(".pro-btn").fadeOut('slow')
+            }
+        })
+    </script>
+
+    <!-- custom js file link  -->
+    <script src="script.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.11/typed.min.js"></script>
+
+    <script>
+        var type = new Typed('.element', {
+            strings: ['Software Developer', 'Web Developer', 'Web Designer', 'WordPress Developer', 'Full Stack Developer'],
+            typeSpeed: 120,
+            loop: true
+        });
+    </script>
+
+    <script>
+        var myVar;
+
+        function myFunction() {
+            myVar = setTimeout(showPage, 3000);
+        }
+
+        function showPage() {
+            document.getElementById("preloader").style.display = "none";
+        }
+    </script>
+</body>
+
+</html>
