@@ -13,7 +13,6 @@
     <!-- custom css file link  -->
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="modal.css">
-
 </head>
 
 <body onload="myFunction()">
