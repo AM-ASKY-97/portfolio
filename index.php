@@ -511,11 +511,11 @@
 
             <div class="box col">
                 <div class="img">
-                    <a href="https://www.sololearn.com/profile/13414130"><img src="Images/certificate/front-end.jpg" alt=""></a>
+                    <a href="https://olympus.mygreatlearning.com/dashboard"><img src="Images/certificate/front-end.jpg" alt=""></a>
                 </div>
 
                 <div class="text">
-                    <h3>Front End Development</h3>
+                    <h3>Front End Development-HTML</h3>
                 </div>
             </div>
 
@@ -561,7 +561,7 @@
 
             <div class="box col">
                 <div class="img">
-                    <a href="https://www.sololearn.com/profile/13414130"><img src="Images/certificate/java.jpg" alt=""></a>
+                    <a href="https://olympus.mygreatlearning.com/dashboard"><img src="Images/certificate/java.jpg" alt=""></a>
                 </div>
 
                 <div class="text">
