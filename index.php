@@ -324,7 +324,7 @@
                             <p class="desc">Calculate the Date of Birth, age , gender and Living hours thorough the
                                 Sri Lankan NIC</p>
 
-                            <p class="desc">Used Stack : HTML-5, CSS, Bootstrap, PHP, JavaScript</p>
+                            <p class="desc">Used Stack : HTML 5, CSS, Bootstrap, PHP, JavaScript</p>
                         </div>
                         <div class="footer-po">
                             <a href="http://age-calculate.herokuapp.com/" class="button"><span>View Project</span></a>
@@ -343,7 +343,7 @@
                             <h2 class="title">Web base of the particular Institution</h2>
                             <p class="desc">This app is used for particular Institution website. The facilities of this application are user registration, user login and a student can view pass papers, model papers, class time table and lecture information. User can download course material</p>
 
-                            <p class="desc">Used Stack : HTML-5, CSS, Bootstrap, PHP, Ajax, jQuery, MySQL</p>
+                            <p class="desc">Used Stack : HTML 5, CSS, Bootstrap, PHP, Ajax, jQuery, MySQL</p>
                         </div>
                         <div class="footer-po">
                             <a href="https://hardy-ict.herokuapp.com/" class="button"><span>View Project</span></a>
@@ -364,7 +364,7 @@
                                 the pdf file of the student information
                             </p>
 
-                            <p class="desc">Used Stack : HTML-5, CSS, Bootstrap, PHP, JavaScript, FPDF</p>
+                            <p class="desc">Used Stack : HTML 5, CSS, Bootstrap, PHP, JavaScript, FPDF</p>
                         </div>
                         <div class="footer-po">
                             <a href="http://ils-institute.herokuapp.com/" class="button"><span>View Project</span></a>
@@ -404,7 +404,7 @@
                             <p class="desc">A created portfolio website for my details. This portfolio website to contains to our clients to hire me and contact to me.
                             </p>
 
-                            <p class="desc">Used Stack : HTML-5, CSS, JavaScript, jquery</p>
+                            <p class="desc">Used Stack : HTML 5, CSS, JavaScript, jquery</p>
                         </div>
                         <div class="footer-po">
                             <a href="#" class="button"><span>View Project</span></a>
@@ -424,7 +424,7 @@
 
                             <p class="desc">2<sup>nd</sup> semester lab work for mobile application course</p>
 
-                            <p class="desc">Used Stack : react native</p>
+                            <p class="desc">Used Stack : React Native</p>
                         </div>
                         <div class="footer-po">
                             <a href="https://github.com/AM-ASKY-97/online-book-shop-react-native" class="button"><span>View Project</span></a>
@@ -464,7 +464,7 @@
                             <p class="desc">Desktop Windows based railway reservation system
                             </p>
 
-                            <p class="desc">Used Stack : visual basic</p>
+                            <p class="desc">Used Stack : Visual Basic</p>
                         </div>
                         <div class="footer-po">
                             <a href="#" class="button"><span>View Project</span></a>
