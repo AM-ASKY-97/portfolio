@@ -376,6 +376,26 @@
             <li class="col-pro">
                 <div class="card">
                     <div class="image-session">
+                        <img src="Images/project/pearl.PNG" alt="" class="image">
+                    </div>
+                    <div class="meta-sission">
+                        <div class="body">
+                            <h2 class="title">Pearl Of The Indian Ocean</h2>
+                            <p class="desc">1st Semester Mini Project for Web Technology Course
+                            </p>
+
+                            <p class="desc">Used Stack : HTML 5, CSS, JavaScript and Vue Js</p>
+                        </div>
+                        <div class="footer-po">
+                            <a href="https://github.com/AM-ASKY-97/mini-project-2021" class="button"><span>View Project</span></a>
+                        </div>
+                    </div>
+                </div>
+            </li>
+
+            <li class="col-pro">
+                <div class="card">
+                    <div class="image-session">
                         <img src="Images/project/portfolio.PNG" alt="" class="image">
                     </div>
                     <div class="meta-sission">
