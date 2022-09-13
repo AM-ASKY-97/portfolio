@@ -86,7 +86,7 @@
                 <h3> <span> age : </span> 24 </h3>
                 <h3> <span> qualification : </span> Reading BSE </h3>
                 <h3> <span> post : </span> Student And Freelancer </h3>
-                <h3> <span> language : </span> English , Tamil , Sinhalese </h3>
+                <h3> <span> language : </span> English , Tamil , Sinhala </h3>
                 <a href="Cv/Asky-Cv.pdf"><button class="btn"> download CV <i class="fas fa-download"></i> </button></a>
             </div>
 
@@ -99,7 +99,7 @@
 
                 <div class="box">
                     <span>7+</span>
-                    <h3>porject completed</h3>
+                    <h3>project completed</h3>
                 </div>
 
                 <div class="box">
