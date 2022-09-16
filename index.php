@@ -376,6 +376,26 @@
             <li class="col-pro">
                 <div class="card">
                     <div class="image-session">
+                        <img src="Images/project/book-shop.jpeg" alt="" class="image">
+                    </div>
+                    <div class="meta-sission">
+                        <div class="body">
+                            <h2 class="title">E - BOOK SELLING APP</h2>
+
+                            <p class="desc">Mobile software that helps to read books and buy e-books.</p>
+
+                            <p class="desc">Used Stack : React Native</p>
+                        </div>
+                        <div class="footer-po">
+                            <a href="https://github.com/AM-ASKY-97/online-book-shop-react-native" class="button"><span>View Project</span></a>
+                        </div>
+                    </div>
+                </div>
+            </li>
+
+            <li class="col-pro">
+                <div class="card">
+                    <div class="image-session">
                         <img src="Images/project/pearl.PNG" alt="" class="image">
                     </div>
                     <div class="meta-sission">
@@ -408,26 +428,6 @@
                         </div>
                         <div class="footer-po">
                             <a href="#" class="button"><span>View Project</span></a>
-                        </div>
-                    </div>
-                </div>
-            </li>
-
-            <li class="col-pro">
-                <div class="card">
-                    <div class="image-session">
-                        <img src="Images/project/book-shop.jpeg" alt="" class="image">
-                    </div>
-                    <div class="meta-sission">
-                        <div class="body">
-                            <h2 class="title">E - BOOK SELLING APP</h2>
-
-                            <p class="desc">Mobile software that helps to read books and buy e-books.</p>
-
-                            <p class="desc">Used Stack : React Native</p>
-                        </div>
-                        <div class="footer-po">
-                            <a href="https://github.com/AM-ASKY-97/online-book-shop-react-native" class="button"><span>View Project</span></a>
                         </div>
                     </div>
                 </div>
