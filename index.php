@@ -467,7 +467,7 @@
                             <p class="desc">Used Stack : Visual Basic</p>
                         </div>
                         <div class="footer-po">
-                            <a href="#" class="button"><span>View Project</span></a>
+                            <a href="https://github.com/AM-ASKY-97/Railway-Reservation-System" class="button"><span>View Project</span></a>
                         </div>
                     </div>
                 </div>
