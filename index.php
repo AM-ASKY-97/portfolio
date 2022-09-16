@@ -380,8 +380,8 @@
                     </div>
                     <div class="meta-sission">
                         <div class="body">
-                            <h2 class="title">Pearl Of The Indian Ocean</h2>
-                            <p class="desc">1st Semester Mini Project for Web Technology Course
+                            <h2 class="title">Sri Lanka Tourism Web Site</h2>
+                            <p class="desc">Travel ideas for planning a holiday to Sri Lanka. Discover things to see and do places to stay and more.
                             </p>
 
                             <p class="desc">Used Stack : HTML 5, CSS, JavaScript and Vue Js</p>
@@ -420,9 +420,9 @@
                     </div>
                     <div class="meta-sission">
                         <div class="body">
-                            <h2 class="title">online book shop </h2>
+                            <h2 class="title">E - BOOK SELLING APP</h2>
 
-                            <p class="desc">2<sup>nd</sup> semester lab work for mobile application course</p>
+                            <p class="desc">Mobile software that helps to read books and buy e-books.</p>
 
                             <p class="desc">Used Stack : React Native</p>
                         </div>
