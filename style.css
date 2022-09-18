@@ -890,7 +890,7 @@ header .follow a:hover {
 .groups li {
     position: relative;
     list-style: none;
-    background: #222;
+    /*background: #222;*/
     border-radius: 5px;
     box-shadow: 0 3px 4px 0 #0001;
     overflow: hidden;
@@ -1120,5 +1120,10 @@ header .follow a:hover {
         padding: 2rem 1rem;
         padding-left: 2rem;
         height: auto;
+    }
+
+    /* new change */
+    .groups li{
+        background: #222;
     }
 }
