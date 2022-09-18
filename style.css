@@ -376,7 +376,8 @@ header .follow a:hover {
 }
 
 .education .box-container .box {
-    width: 27rem;
+    /*width: 27rem;*/
+    width: 30rem;
     margin: 4rem 1rem;
     padding-left: 4rem;
     border-left: .2rem solid #fff;
@@ -402,6 +403,7 @@ header .follow a:hover {
     color: #eee;
     padding: 1rem 0;
     text-transform: none;
+    text-align: justify;
 }
 
 .education .box-container .box i {
