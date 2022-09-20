@@ -274,7 +274,7 @@
                     </div>
                     <div class="meta-sission-Pharmacy">
                         <div class="body">
-                            <h2 class="title">Medical Prescription Application</h2>
+                            <h2 class="title">Laravel Pharmacy Management System</h2>
                             <p class="desc">This application is used for medical prescription purposes. The facilities
                                 of this application are user registration, user login, and uploading prescriptions. A
                                 pharmacy user can view uploaded prescriptions. The Pharmacy user can prepare quotations
