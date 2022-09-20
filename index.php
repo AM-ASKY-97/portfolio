@@ -285,7 +285,7 @@
                             <p class="desc">Used Stack : Laravel, HTML 5, CSS, Bootstrap, Ajax, MySQL</p>
                         </div>
                         <div class="footer-po">
-                            <a href="https://github.com/AM-ASKY-97/Medical_Prescription" class="button"><span>View Project</span></a>
+                            <a href="https://github.com/AM-ASKY-97/Laravel-Pharmacy-Management-System" class="button"><span>View Project</span></a>
                         </div>
                     </div>
                 </div>
