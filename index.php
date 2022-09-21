@@ -380,7 +380,7 @@
                     </div>
                     <div class="meta-sission">
                         <div class="body">
-                            <h2 class="title">E - BOOK SELLING APP</h2>
+                            <h2 class="title">Book Store UI React Native</h2>
 
                             <p class="desc">Mobile software that helps to read books and buy e-books.</p>
 
