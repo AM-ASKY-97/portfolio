@@ -299,7 +299,7 @@
                     </div>
                     <div class="meta-sission">
                         <div class="body">
-                            <h2 class="title">PHP CRUD Operations with MySQL Database and Bootstrap 4</h2>
+                            <h2 class="title">PHP CRUD Operations with MySQL Database</h2>
                             <p class="desc">I have created simple PHP ajax CRUD application using by MySQL, Bootstrap &
                                 jQuery DataTables. If you want to have an account in this page you can create your own
                                 account, or you can use my account and add details in to the table.</p>
