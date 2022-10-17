@@ -245,7 +245,7 @@
 
             <div class="box">
                 <i class="fas fa-graduation-cap"></i>
-                <span>2020</span>
+                <span>2019</span>
                 <h3>VIVEKANANDA COLLEGE OF TECHNOLOGY</h3>
                 <p>National Vocational Qualification (NVQ Level-4) in <b>Computer Network Technician - Weekend</b></p>
             </div>
@@ -275,12 +275,12 @@
                     <div class="meta-sission-Pharmacy">
                         <div class="body">
                             <h2 class="title">Laravel Pharmacy Management System</h2>
-                            <p class="desc">This application is used for medical prescription purposes. The facilities
-                                of this application are user registration, user login, and uploading prescriptions. A
-                                pharmacy user can view uploaded prescriptions. The Pharmacy user can prepare quotations
-                                for the uploaded prescriptions and send the prepared quotation to the user. (Quotation
-                                should display in the user account), User can accept or reject the quotation. The
-                                system will notify the pharmacy about the user's accept or reject status.</p>
+                            <p class="desc">This application is used for medical prescription purposes. The facilities of this 
+                                application are user registration, user login, and uploading prescriptions. A pharmacy user can 
+                                view uploaded prescriptions. The Pharmacy user can prepare quotations for the uploaded prescriptions 
+                                and send the prepared quotation to the user. (Quotation should be displayed in the user account). 
+                                The user can accept or reject the quotation. The system will notify the pharmacy about the user's 
+                                accepted or rejected status.</p>
 
                             <p class="desc">Used Stack : Laravel, HTML 5, CSS, Bootstrap, Ajax, MySQL</p>
                         </div>
@@ -300,9 +300,7 @@
                     <div class="meta-sission">
                         <div class="body">
                             <h2 class="title">PHP CRUD Operations with MySQL Database</h2>
-                            <p class="desc">I have created simple PHP ajax CRUD application using by MySQL, Bootstrap &
-                                jQuery DataTables. If you want to have an account in this page you can create your own
-                                account, or you can use my account and add details in to the table.</p>
+                            <p class="desc">I have created a simple PHP ajax CRUD application using MySQL, Bootstrap and jQuery DataTables. If you want to have an account on this page, you can either create your own or use my account and fill out the table with details.</p>
 
                             <p class="desc">Used Stack : HTML-5, CSS, Bootstrap, PHP, Ajax, jQuery, MySQL</p>
                         </div>
@@ -320,9 +318,8 @@
                     </div>
                     <div class="meta-sission">
                         <div class="body">
-                            <h2 class="title">Sri Lanka NIC Calculator</h2>
-                            <p class="desc">Calculate the Date of Birth, age , gender and Living hours thorough the
-                                Sri Lankan NIC</p>
+                            <h2 class="title">Sri Lankan NIC Calculator</h2>
+                            <p class="desc">The date of birth, age, gender, and Living hours can be calculated from the Sri Lankan National Identity Card.</p>
 
                             <p class="desc">Used Stack : HTML 5, CSS, Bootstrap, PHP, JavaScript</p>
                         </div>
@@ -340,8 +337,8 @@
                     </div>
                     <div class="meta-sission">
                         <div class="body">
-                            <h2 class="title">Web base of the particular Institution</h2>
-                            <p class="desc">This app is used for particular Institution website. The facilities of this application are user registration, user login and a student can view pass papers, model papers, class time table and lecture information. User can download course material</p>
+                            <h2 class="title">Web Base Of The Particular Institution - Hardy</h2>
+                            <p class="desc">This app is used for a particular institution's website. The facilities of this application are user registration, user login, and a student can view past papers, model papers, class timetables, and lecture information. Users can download course material.</p>
 
                             <p class="desc">Used Stack : HTML 5, CSS, Bootstrap, PHP, Ajax, jQuery, MySQL</p>
                         </div>
@@ -359,10 +356,8 @@
                     </div>
                     <div class="meta-sission">
                         <div class="body">
-                            <h2 class="title">Application form</h2>
-                            <p class="desc">Application form the particular institution finally generate
-                                the pdf file of the student information
-                            </p>
+                            <h2 class="title">Application Form - ILS Institute</h2>
+                            <p class="desc">The application form for the particular institution finally generates the pdf file of the student information.</p>
 
                             <p class="desc">Used Stack : HTML 5, CSS, Bootstrap, PHP, JavaScript, FPDF</p>
                         </div>
