@@ -209,14 +209,14 @@ header .follow a:hover {
 }
 
 .about .row .details {
+    
+    padding: 2rem 6rem;
+    
     /*old
-        padding: 2rem 6rem;
-    ///
-    New */
-
     flex: 1 1 48rem;
     padding: 2rem 1rem;
     padding-left: 6rem;
+    */
 }
 
 .about .row .details h3 {
