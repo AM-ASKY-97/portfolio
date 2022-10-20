@@ -220,9 +220,8 @@ header .follow a:hover {
 }
 
 .about .row .details h3 {
-    font-size: 2rem;
+    font-size: 1rem;
     color: #eee;
-    font-weight: normal;
     text-transform: none;
     text-align: justify;
 }
