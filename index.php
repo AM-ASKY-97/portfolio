@@ -74,11 +74,7 @@
         <div class="row">
 
             <div class="details">
-                <h3>I am a hardworking and ambitious individual with a great passion
-                    for the Software & IT industry. I am Reading Bachelor of Software
-                    Engineering Honors (BSE) at Open University of Sri Lanka. I have
-                    strong technical skills as well as excellent interpersonal skills,
-                    enabling me to interact with a wide range of clients.</h3>
+                <h3>I am a hard-working and ambitious individual with a great passion for the software and IT industries. I am reading Bachelor of Software Engineering Honors (BSE) at the Open University of Sri Lanka. I have strong technical skills as well as excellent interpersonal skills, enabling me to interact with a wide range of clients.</h3>     
             </div>
 
             <div class="info">
