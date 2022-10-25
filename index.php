@@ -320,7 +320,7 @@
                             <p class="desc">Used Stack : HTML 5, CSS, Bootstrap, PHP, JavaScript</p>
                         </div>
                         <div class="footer-po">
-                            <a href="http://age-calculate.herokuapp.com/" class="button"><span>View Project</span></a>
+                            <a href="https://github.com/AM-ASKY-97/Sri-Lanka-NIC-Calculator" class="button"><span>View Project</span></a>
                         </div>
                     </div>
                 </div>
@@ -339,7 +339,7 @@
                             <p class="desc">Used Stack : HTML 5, CSS, Bootstrap, PHP, Ajax, jQuery, MySQL</p>
                         </div>
                         <div class="footer-po">
-                            <a href="https://hardy-ict.herokuapp.com/" class="button"><span>View Project</span></a>
+                            <a href="https://github.com/AM-ASKY-97/Web-Base-Of-The-Particular-Institution-Hardy" class="button"><span>View Project</span></a>
                         </div>
                     </div>
                 </div>
@@ -358,7 +358,7 @@
                             <p class="desc">Used Stack : HTML 5, CSS, Bootstrap, PHP, JavaScript, FPDF</p>
                         </div>
                         <div class="footer-po">
-                            <a href="http://ils-institute.herokuapp.com/" class="button"><span>View Project</span></a>
+                            <a href="https://github.com/AM-ASKY-97/Application_Form_ILS_Institute" class="button"><span>View Project</span></a>
                         </div>
                     </div>
                 </div>
