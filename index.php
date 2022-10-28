@@ -315,7 +315,7 @@
                             <p class="desc">Used Stack : HTML 5, CSS, Bootstrap, PHP, JavaScript</p>
                         </div>
                         <div class="footer-po">
-                            <a href="https://github.com/AM-ASKY-97/Sri-Lanka-NIC-Calculator" class="button"><span>View Project</span></a>
+                            <a href="https://github.com/AM-ASKY-97/Sri-Lanka-NIC-Calculator" class="button"><span>Source Code</span></a>
                         </div>
                     </div>
                 </div>
@@ -334,7 +334,7 @@
                             <p class="desc">Used Stack : HTML 5, CSS, Bootstrap, PHP, Ajax, jQuery, MySQL</p>
                         </div>
                         <div class="footer-po">
-                            <a href="https://github.com/AM-ASKY-97/Web-Base-Of-The-Particular-Institution-Hardy" class="button"><span>View Project</span></a>
+                            <a href="https://github.com/AM-ASKY-97/Web-Base-Of-The-Particular-Institution-Hardy" class="button"><span>Source Code</span></a>
                         </div>
                     </div>
                 </div>
@@ -353,7 +353,7 @@
                             <p class="desc">Used Stack : HTML 5, CSS, Bootstrap, PHP, JavaScript, FPDF</p>
                         </div>
                         <div class="footer-po">
-                            <a href="https://github.com/AM-ASKY-97/Application_Form_ILS_Institute" class="button"><span>View Project</span></a>
+                            <a href="https://github.com/AM-ASKY-97/Application_Form_ILS_Institute" class="button"><span>Source Code</span></a>
                         </div>
                     </div>
                 </div>
@@ -373,7 +373,7 @@
                             <p class="desc">Used Stack : React Native</p>
                         </div>
                         <div class="footer-po">
-                            <a href="https://github.com/AM-ASKY-97/online-book-shop-react-native" class="button"><span>View Project</span></a>
+                            <a href="https://github.com/AM-ASKY-97/online-book-shop-react-native" class="button"><span>Source Code</span></a>
                         </div>
                     </div>
                 </div>
@@ -393,7 +393,7 @@
                             <p class="desc">Used Stack : HTML 5, CSS, JavaScript and Vue Js</p>
                         </div>
                         <div class="footer-po">
-                            <a href="https://github.com/AM-ASKY-97/mini-project-2021" class="button"><span>View Project</span></a>
+                            <a href="https://github.com/AM-ASKY-97/mini-project-2021" class="button"><span>Source Code</span></a>
                         </div>
                     </div>
                 </div>
@@ -413,7 +413,7 @@
                             <p class="desc">Used Stack : HTML 5, CSS, JavaScript, jquery</p>
                         </div>
                         <div class="footer-po">
-                            <a href="#" class="button"><span>View Project</span></a>
+                            <a href="#" class="button"><span>Source Code</span></a>
                         </div>
                     </div>
                 </div>
@@ -433,7 +433,7 @@
                             <p class="desc">Used Stack : C#</p>
                         </div>
                         <div class="footer-po">
-                            <a href="https://github.com/AM-ASKY-97/Multiplication_Table" class="button"><span>View Project</span></a>
+                            <a href="https://github.com/AM-ASKY-97/Multiplication_Table" class="button"><span>Source Code</span></a>
                         </div>
                     </div>
                 </div>
@@ -453,7 +453,7 @@
                             <p class="desc">Used Stack : Visual Basic</p>
                         </div>
                         <div class="footer-po">
-                            <a href="https://github.com/AM-ASKY-97/Railway-Reservation-System" class="button"><span>View Project</span></a>
+                            <a href="https://github.com/AM-ASKY-97/Railway-Reservation-System" class="button"><span>Source Code</span></a>
                         </div>
                     </div>
                 </div>
