@@ -22,7 +22,7 @@
     <header>
 
         <div class="user">
-            <img src="Images/IMG-97.png" alt="">
+            <img src="Images/img-1.jpg" alt="">
             <h3 class="name">Asky AM</h3>
             <p class="post">Software Developer</p>
         </div>
