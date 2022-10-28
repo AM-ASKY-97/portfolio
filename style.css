@@ -209,9 +209,9 @@ header .follow a:hover {
 }
 
 .about .row .details {
-    
+
     padding: 2rem 6rem;
-    
+
     /*old
     flex: 1 1 48rem;
     padding: 2rem 1rem;
@@ -1128,7 +1128,7 @@ header .follow a:hover {
     }
 
     /* new change */
-    .groups li{
+    .groups li {
         background: #222;
     }
 }
