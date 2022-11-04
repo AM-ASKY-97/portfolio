@@ -363,7 +363,7 @@
             <li class="col-pro">
                 <div class="card">
                     <div class="image-session">
-                        <img src="Images/project/book-shop.jpeg" alt="" class="image">
+                        <img src="Images/project/book-shop.png" alt="" class="image">
                     </div>
                     <div class="meta-sission">
                         <div class="body">
