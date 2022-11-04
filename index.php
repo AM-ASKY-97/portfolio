@@ -84,6 +84,7 @@
                 <h3> <span> post : </span> Student And Freelancer </h3>
                 <h3> <span> language : </span> English , Tamil , Sinhala </h3>
                 <a href="Cv/Asky-Cv.pdf"><button class="btn"> download CV <i class="fas fa-download"></i> </button></a>
+                <!--<a href="Cv/Asky-Cv.pdf"><button class="btn-c"> Cover Letter <i class="fas fa-download"></i> </button></a>-->
             </div>
 
             <div class="counter">
@@ -208,7 +209,7 @@
             <div class="box">
                 <i class="fas fa-graduation-cap"></i>
                 <span>2021 Present</span>
-                <h3>OPEN UNIVERSITY OF SRI LANKA</h3>
+                <h3>THE OPEN UNIVERSITY OF SRI LANKA - OUSL</h3>
                 <p>Faculty of Engineering Technology Department of Electrical & Computer Engineering Bachelor of Software Engineering Honours</p>
             </div>
 

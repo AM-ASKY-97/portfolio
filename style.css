@@ -54,7 +54,7 @@ section {
     background: #333;
     color: #fff;
     cursor: pointer;
-    margin-top: 1rem;
+    margin-top: 2rem;
     font-size: 2rem;
     border-radius: 5rem;
 }
@@ -65,6 +65,26 @@ section {
 }
 
 .btn:hover {
+    background: var(--yellow);
+}
+
+.btn-c {
+    padding: .7rem 3rem;
+    background: #333;
+    color: #fff;
+    cursor: pointer;
+    margin-top: 2rem;
+    margin-left: 2rem;
+    font-size: 2rem;
+    border-radius: 5rem;
+}
+
+.btn-c i {
+    padding: 0 .5rem;
+    font-size: 1.8rem;
+}
+
+.btn-c:hover {
     background: var(--yellow);
 }
 
@@ -807,6 +827,10 @@ header .follow a:hover {
         padding: 0;
     }
 
+    .btn-c{
+        margin-left: 0rem;
+    }
+
 }
 
 @media (max-width:768px) {
@@ -830,6 +854,10 @@ header .follow a:hover {
         padding: 2rem 1rem;
         padding-left: 6rem;
         padding-right: 6rem;
+    }
+
+    .btn-c{
+        margin-left: 0rem;
     }
 
 }
@@ -877,6 +905,10 @@ header .follow a:hover {
         padding: 2rem 1rem;
         padding-left: 3rem;
         padding-right: 3rem;
+    }
+
+    .btn-c{
+        margin-left: 0rem;
     }
 }
 
